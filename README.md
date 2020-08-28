@@ -13,6 +13,7 @@
 * Clone the project into server.
 * Import the database provided at sql_queries folder in the project folder.
 * Change database configuration in application/config/database.php
+* Remove the .htaccess file if there is 500 error, and try
 
 ## Usage instruction
 
